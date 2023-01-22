@@ -61,6 +61,13 @@ for node in neighbors:
 
 For configuration, utilities, and details, please see the code.
 
+## Related projects
+
+You can find related projects here:
+
+- [graphscraper](https://github.com/volfpeter/graphscraper)
+- [localclustering](https://github.com/volfpeter/localclustering)
+
 ## Notice
 
 Use this library and the fetched data responsibly.
